@@ -1,6 +1,6 @@
 ## Hello 👋
 
-Hey there! I’m Sneha Gupta — a **Data Analyst** and **Computational Physicist** based in Toronto 🇨🇦. I have over 8 years of research experience at [Institute for Plasma Research, Govt. of India](https://www.ipr.res.in/), where I specialized in computational modeling, numerical simulations, data analytics, and visualization.
+Hey there! I’m Sneha Gupta, a **Data Analyst** and **Computational Physicist**, based in Toronto 🇨🇦. I have over 8 years of research experience at [Institute for Plasma Research, Govt. of India](https://www.ipr.res.in/), where I specialized in computational modeling, numerical simulations, data analytics, and visualization.
 
 I hold dual master’s degrees in advanced Physics, including one from the prestigious [Indian Institute of Technology Delhi (IIT Delhi)](https://home.iitd.ac.in/). I’m passionate about transforming complex, large-scale data into meaningful insights and using computational tools to solve real-world problems.
 
